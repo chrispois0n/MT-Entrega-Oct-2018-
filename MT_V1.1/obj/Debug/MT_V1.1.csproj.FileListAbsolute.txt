@@ -1,0 +1,184 @@
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.1\MT_V1.1\bin\Debug\MT_V1.1.exe.config
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.1\MT_V1.1\bin\Debug\MT_V1.1.exe
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.1\MT_V1.1\bin\Debug\MT_V1.1.pdb
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.1\MT_V1.1\bin\Debug\MetroFramework.dll
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.1\MT_V1.1\obj\Debug\MT_V1.1.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.1\MT_V1.1\obj\Debug\MT_V1._1.DineroCaja.resources
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.1\MT_V1.1\obj\Debug\MT_V1._1.LogIn.resources
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.1\MT_V1.1\obj\Debug\MT_V1._1.Properties.Resources.resources
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.1\MT_V1.1\obj\Debug\MT_V1._1.PV.resources
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.1\MT_V1.1\obj\Debug\MT_V1.1.csproj.GenerateResource.Cache
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.1\MT_V1.1\obj\Debug\MT_V1.1.exe
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.1\MT_V1.1\obj\Debug\MT_V1.1.pdb
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.1\MT_V1.1\obj\Debug\MT_V1._1.Cobrar.resources
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.1\MT_V1.1\obj\Debug\MT_V1._1.CobrarPedido.resources
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.1\MT_V1.1\obj\Debug\MT_V1._1.ArtCom.resources
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.1\MT_V1.1\obj\Debug\MT_V1._1.Salir.resources
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.1\MT_V1.1\obj\Debug\MT_V1._1.FinTurno.resources
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.1\MT_V1.1\bin\Debug\MySql.Data.dll
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.1\MT_V1.1\bin\Debug\Google.Protobuf.dll
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.1\MT_V1.1\bin\Debug\MySql.Data.xml
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.1\MT_V1.1\bin\Debug\miLibreria.dll
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.1\MT_V1.1\bin\Debug\miLibreria.pdb
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.1\MT_V1.1\obj\Debug\MT_V1._1.FormBase.resources
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.1\MT_V1.1\obj\Debug\MT_V1._1.consultas.resources
+C:\Users\Christopher\MT_V1.1\MT_V1.1\bin\Debug\MT_V1.1.exe.config
+C:\Users\Christopher\MT_V1.1\MT_V1.1\obj\Debug\MT_V1.1.exe
+C:\Users\Christopher\MT_V1.1\MT_V1.1\obj\Debug\MT_V1.1.pdb
+C:\Users\Christopher\MT_V1.1\MT_V1.1\bin\Debug\MT_V1.1.exe
+C:\Users\Christopher\MT_V1.1\MT_V1.1\bin\Debug\MT_V1.1.pdb
+C:\Users\Christopher\MT_V1.1\MT_V1.1\bin\Debug\miLibreria.dll
+C:\Users\Christopher\MT_V1.1\MT_V1.1\bin\Debug\MySql.Data.dll
+C:\Users\Christopher\MT_V1.1\MT_V1.1\bin\Debug\Google.Protobuf.dll
+C:\Users\Christopher\MT_V1.1\MT_V1.1\bin\Debug\miLibreria.pdb
+C:\Users\Christopher\MT_V1.1\MT_V1.1\bin\Debug\MySql.Data.xml
+C:\Users\Christopher\MT_V1.1\MT_V1.1\obj\Debug\MT_V1.1.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\MT_V1.1\MT_V1.1\obj\Debug\MT_V1._1.ArtCom.resources
+C:\Users\Christopher\MT_V1.1\MT_V1.1\obj\Debug\MT_V1._1.Cobrar.resources
+C:\Users\Christopher\MT_V1.1\MT_V1.1\obj\Debug\MT_V1._1.CobrarPedido.resources
+C:\Users\Christopher\MT_V1.1\MT_V1.1\obj\Debug\MT_V1._1.consultas.resources
+C:\Users\Christopher\MT_V1.1\MT_V1.1\obj\Debug\MT_V1._1.DineroCaja.resources
+C:\Users\Christopher\MT_V1.1\MT_V1.1\obj\Debug\MT_V1._1.FinTurno.resources
+C:\Users\Christopher\MT_V1.1\MT_V1.1\obj\Debug\MT_V1._1.FormBase.resources
+C:\Users\Christopher\MT_V1.1\MT_V1.1\obj\Debug\MT_V1._1.LogIn.resources
+C:\Users\Christopher\MT_V1.1\MT_V1.1\obj\Debug\MT_V1._1.Properties.Resources.resources
+C:\Users\Christopher\MT_V1.1\MT_V1.1\obj\Debug\MT_V1._1.PV.resources
+C:\Users\Christopher\MT_V1.1\MT_V1.1\obj\Debug\MT_V1._1.Salir.resources
+C:\Users\Christopher\MT_V1.1\MT_V1.1\obj\Debug\MT_V1.1.csproj.GenerateResource.Cache
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.5\MT_V1.1\MT_V1.1\bin\Debug\MT_V1.1.exe.config
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.5\MT_V1.1\MT_V1.1\obj\Debug\MT_V1.1.exe
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.5\MT_V1.1\MT_V1.1\obj\Debug\MT_V1.1.pdb
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.5\MT_V1.1\MT_V1.1\bin\Debug\MT_V1.1.exe
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.5\MT_V1.1\MT_V1.1\bin\Debug\MT_V1.1.pdb
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.5\MT_V1.1\MT_V1.1\bin\Debug\miLibreria.dll
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.5\MT_V1.1\MT_V1.1\bin\Debug\MySql.Data.dll
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.5\MT_V1.1\MT_V1.1\bin\Debug\Google.Protobuf.dll
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.5\MT_V1.1\MT_V1.1\bin\Debug\miLibreria.pdb
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.5\MT_V1.1\MT_V1.1\bin\Debug\MySql.Data.xml
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.5\MT_V1.1\MT_V1.1\obj\Debug\MT_V1.1.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.5\MT_V1.1\MT_V1.1\obj\Debug\MT_V1._1.ArtCom.resources
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.5\MT_V1.1\MT_V1.1\obj\Debug\MT_V1._1.Cobrar.resources
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.5\MT_V1.1\MT_V1.1\obj\Debug\MT_V1._1.CobrarPedido.resources
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.5\MT_V1.1\MT_V1.1\obj\Debug\MT_V1._1.consultas.resources
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.5\MT_V1.1\MT_V1.1\obj\Debug\MT_V1._1.DineroCaja.resources
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.5\MT_V1.1\MT_V1.1\obj\Debug\MT_V1._1.FinTurno.resources
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.5\MT_V1.1\MT_V1.1\obj\Debug\MT_V1._1.FormBase.resources
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.5\MT_V1.1\MT_V1.1\obj\Debug\MT_V1._1.LogIn.resources
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.5\MT_V1.1\MT_V1.1\obj\Debug\MT_V1._1.Properties.Resources.resources
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.5\MT_V1.1\MT_V1.1\obj\Debug\MT_V1._1.PV.resources
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.5\MT_V1.1\MT_V1.1\obj\Debug\MT_V1._1.Salir.resources
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.5\MT_V1.1\MT_V1.1\obj\Debug\MT_V1.1.csproj.GenerateResource.Cache
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.5\MT_V1.1\MT_V1.1\obj\Debug\RdlCompile.cache
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.5\MT_V1.1\MT_V1.1\obj\Debug\RdlCompile.compiled
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.5\MT_V1.1\MT_V1.1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.5\MT_V1.1\MT_V1.1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.5\MT_V1.1\MT_V1.1\obj\Debug\MT_V1._1.ReportePrueba.resources
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\MT_V1.1.exe.config
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\MT_V1.1.exe
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\MT_V1.1.pdb
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\miLibreria.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\Google.Protobuf.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\miLibreria.pdb
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\MySql.Data.xml
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\obj\Debug\MT_V1.1.csprojAssemblyReference.cache
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\obj\Debug\MT_V1._1.ArtCom.resources
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\obj\Debug\MT_V1._1.Cobrar.resources
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\obj\Debug\MT_V1._1.CobrarPedido.resources
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\obj\Debug\MT_V1._1.consultas.resources
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\obj\Debug\MT_V1._1.DineroCaja.resources
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\obj\Debug\MT_V1._1.FinTurno.resources
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\obj\Debug\MT_V1._1.FormBase.resources
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\obj\Debug\MT_V1._1.LogIn.resources
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\obj\Debug\MT_V1._1.Properties.Resources.resources
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\obj\Debug\MT_V1._1.PV.resources
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\obj\Debug\MT_V1._1.ReportePrueba.resources
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\obj\Debug\MT_V1._1.Salir.resources
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\obj\Debug\MT_V1.1.csproj.GenerateResource.cache
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\obj\Debug\MT_V1.1.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\obj\Debug\MT_V1.1.csproj.CopyComplete
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\obj\Debug\MT_V1.1.exe
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\obj\Debug\MT_V1.1.pdb
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\miLibreria.dll.config
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\EnvDTE.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\stdole.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\EnvDTE80.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\VSLangProj.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\VSLangProj80.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\VSLangProj2.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\Chris\Desktop\Mr. Tamales\MT_V1.1\obj\Debug\MT_V1.1.exe.config

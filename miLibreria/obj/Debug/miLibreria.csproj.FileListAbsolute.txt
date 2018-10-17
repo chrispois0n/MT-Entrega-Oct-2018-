@@ -1,0 +1,16 @@
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.1\miLibreria\bin\Debug\miLibreria.dll
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.1\miLibreria\bin\Debug\miLibreria.pdb
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.1\miLibreria\obj\Debug\miLibreria.dll
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.1\miLibreria\obj\Debug\miLibreria.pdb
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.5\MT_V1.1\miLibreria\bin\Debug\miLibreria.dll
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.5\MT_V1.1\miLibreria\bin\Debug\miLibreria.pdb
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.5\MT_V1.1\miLibreria\obj\Debug\miLibreria.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.5\MT_V1.1\miLibreria\obj\Debug\miLibreria.dll
+C:\Users\Christopher\Desktop\Estancia - Mr. Tamal\MT_V1.5\MT_V1.1\miLibreria\obj\Debug\miLibreria.pdb
+C:\Users\Chris\Desktop\Mr. Tamales\miLibreria\bin\Debug\miLibreria.dll.config
+C:\Users\Chris\Desktop\Mr. Tamales\miLibreria\bin\Debug\miLibreria.dll
+C:\Users\Chris\Desktop\Mr. Tamales\miLibreria\bin\Debug\miLibreria.pdb
+C:\Users\Chris\Desktop\Mr. Tamales\miLibreria\obj\Debug\miLibreria.csprojAssemblyReference.cache
+C:\Users\Chris\Desktop\Mr. Tamales\miLibreria\obj\Debug\miLibreria.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Desktop\Mr. Tamales\miLibreria\obj\Debug\miLibreria.dll
+C:\Users\Chris\Desktop\Mr. Tamales\miLibreria\obj\Debug\miLibreria.pdb
